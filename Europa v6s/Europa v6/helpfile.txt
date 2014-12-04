@@ -1,0 +1,5 @@
+Console Help Commands
+game_reset - resets the game
+push_state gamestate - pushes the game state
+pop_state - pop's a state of the state manager
+exit - exits the program

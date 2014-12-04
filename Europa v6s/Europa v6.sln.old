@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EuropaR3", "EuropaR3\EuropaR3.vcproj", "{479B3443-FEA9-4837-B39A-DD6CB9167F81}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Europa Evolution", "Europa Evolution\Europa Evolution.vcproj", "{C130D291-E523-4262-85C8-FB5F6A702DAD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Europa Terrian", "Europa Terrian\Europa Terrian.vcproj", "{3394CD3C-075E-467E-81C4-66B5ED0D26A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479B3443-FEA9-4837-B39A-DD6CB9167F81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{479B3443-FEA9-4837-B39A-DD6CB9167F81}.Debug|Win32.Build.0 = Debug|Win32
+		{479B3443-FEA9-4837-B39A-DD6CB9167F81}.Release|Win32.ActiveCfg = Release|Win32
+		{479B3443-FEA9-4837-B39A-DD6CB9167F81}.Release|Win32.Build.0 = Release|Win32
+		{C130D291-E523-4262-85C8-FB5F6A702DAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C130D291-E523-4262-85C8-FB5F6A702DAD}.Debug|Win32.Build.0 = Debug|Win32
+		{C130D291-E523-4262-85C8-FB5F6A702DAD}.Release|Win32.ActiveCfg = Release|Win32
+		{C130D291-E523-4262-85C8-FB5F6A702DAD}.Release|Win32.Build.0 = Release|Win32
+		{3394CD3C-075E-467E-81C4-66B5ED0D26A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3394CD3C-075E-467E-81C4-66B5ED0D26A9}.Debug|Win32.Build.0 = Debug|Win32
+		{3394CD3C-075E-467E-81C4-66B5ED0D26A9}.Release|Win32.ActiveCfg = Release|Win32
+		{3394CD3C-075E-467E-81C4-66B5ED0D26A9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
